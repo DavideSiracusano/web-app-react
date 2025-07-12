@@ -1,4 +1,5 @@
 import { useState, useEffect } from "react";
+import { FaSun, FaMoon } from "react-icons/fa";
 
 function DarkTheme() {
   const [theme, setTheme] = useState(false);
@@ -13,7 +14,7 @@ function DarkTheme() {
   return (
     <div>
       <button className="theme-button" onClick={toggleTheme}>
-        Switch Mode
+        {theme ? <FaSun /> : <FaMoon />}
       </button>
     </div>
   );

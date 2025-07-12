@@ -17,12 +17,14 @@ function Home() {
     >
       <h1 className="title">Welcome to my page!</h1>
       <p className="border rounded p-2 shadow paragraph">
-        Hello! I`m a front end developer, I`ve always had a passion for
-        computing. I like to keep up to date about what's new following courses
-        or simply reading some articles.
+        Hello! I'm Davide! A front end developer.
+        <br />I was born in 1994 and I live in Italy.
+        <br />
+        I've always had a passion for coding. I like to keep up to date about
+        what's new following courses or simply reading some articles.
       </p>
 
-      <h4 className="title">technologies:</h4>
+      <h4 className="title">Technologies:</h4>
       <div className="technologies">
         <img className="technologies-img" src={reactImg} alt="react"></img>
         <img

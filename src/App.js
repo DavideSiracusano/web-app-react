@@ -11,6 +11,7 @@ import MyNavbar from "./Navbar";
 import Home from "./Home";
 import About from "./About";
 import DarkTheme from "./DarkTheme";
+import "./index.css";
 
 function AnimatedRoutes() {
   const location = useLocation();
