@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/web-app-react/static/css/main.3320cf4f.css",
-    "main.js": "/web-app-react/static/js/main.454f0146.js",
-    "static/js/453.98bb53cb.chunk.js": "/web-app-react/static/js/453.98bb53cb.chunk.js",
-    "static/media/degree.jpg": "/web-app-react/static/media/degree.235b7488dc074ce4f1d2.jpg",
-    "static/media/imgdavide.png": "/web-app-react/static/media/imgdavide.98f2807bab8c7b49eb73.png",
-    "static/media/CSS3_logo_and_wordmark.svg.png": "/web-app-react/static/media/CSS3_logo_and_wordmark.svg.e8e133cfdfaba93cb776.png",
-    "static/media/image.png": "/web-app-react/static/media/image.f6477ef7f894622a6fbd.png",
-    "static/media/Bootstrap_logo.svg.png": "/web-app-react/static/media/Bootstrap_logo.svg.1e724d60d7ed3cc0bd52.png",
-    "static/media/cropped-Logo_University-09.webp": "/web-app-react/static/media/cropped-Logo_University-09.48d5163b176cb5b3034f.webp",
-    "static/media/javascript-logo-javascript-icon-transparent-free-png.webp": "/web-app-react/static/media/javascript-logo-javascript-icon-transparent-free-png.00fd0fae01e451c5460a.webp",
-    "static/media/HTML5_logo_and_wordmark.svg.png": "/web-app-react/static/media/HTML5_logo_and_wordmark.svg.433fda35ec3b24cb2a74.png",
-    "index.html": "/web-app-react/index.html",
-    "main.3320cf4f.css.map": "/web-app-react/static/css/main.3320cf4f.css.map",
-    "main.454f0146.js.map": "/web-app-react/static/js/main.454f0146.js.map",
-    "453.98bb53cb.chunk.js.map": "/web-app-react/static/js/453.98bb53cb.chunk.js.map"
+    "main.css": "/static/css/main.3320cf4f.css",
+    "main.js": "/static/js/main.f972ccf2.js",
+    "static/js/453.98bb53cb.chunk.js": "/static/js/453.98bb53cb.chunk.js",
+    "static/media/degree.jpg": "/static/media/degree.235b7488dc074ce4f1d2.jpg",
+    "static/media/imgdavide.png": "/static/media/imgdavide.98f2807bab8c7b49eb73.png",
+    "static/media/CSS3_logo_and_wordmark.svg.png": "/static/media/CSS3_logo_and_wordmark.svg.e8e133cfdfaba93cb776.png",
+    "static/media/image.png": "/static/media/image.f6477ef7f894622a6fbd.png",
+    "static/media/Bootstrap_logo.svg.png": "/static/media/Bootstrap_logo.svg.1e724d60d7ed3cc0bd52.png",
+    "static/media/cropped-Logo_University-09.webp": "/static/media/cropped-Logo_University-09.48d5163b176cb5b3034f.webp",
+    "static/media/javascript-logo-javascript-icon-transparent-free-png.webp": "/static/media/javascript-logo-javascript-icon-transparent-free-png.00fd0fae01e451c5460a.webp",
+    "static/media/HTML5_logo_and_wordmark.svg.png": "/static/media/HTML5_logo_and_wordmark.svg.433fda35ec3b24cb2a74.png",
+    "index.html": "/index.html",
+    "main.3320cf4f.css.map": "/static/css/main.3320cf4f.css.map",
+    "main.f972ccf2.js.map": "/static/js/main.f972ccf2.js.map",
+    "453.98bb53cb.chunk.js.map": "/static/js/453.98bb53cb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3320cf4f.css",
-    "static/js/main.454f0146.js"
+    "static/js/main.f972ccf2.js"
   ]
 }
